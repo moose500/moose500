@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moose500
-- 👀 I’m interested in rasberry pi, some 3d printing
-- 🌱 I’m currently learning python for the pi
-- 💞️ I’m looking to collaborate on nuthin yet
+- 👀 I’m interested in rasberry pi, arduino, some 3d printing
+- 🌱 I’m just an average dude currently learning about this stuff. I previously played with PIC processors
+- 💞️ I’m looking to collaborate on using the MPU6050 and similar sensors on rocket flight projects
 - 📫 How to reach me: ask
 
 <!---
